@@ -1,8 +1,8 @@
 <h1 align="center">👋 ¡Hola! Soy Manuel Caicedo</h1>
 
 <p align="center">
-  <strong>Desarrollador Full Stack Junior</strong> <br>
-  Java | Spring Boot | Node.js | Vue.js | MongoDB | SQL|
+  <strong>Ingeniero de sistemas</strong> <br>
+  Desarrollador Full Stack Junior | Java | Spring Boot | Node.js | Vue.js | MongoDB | SQL|
 </p>
 
 ---
