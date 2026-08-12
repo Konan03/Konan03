@@ -35,7 +35,6 @@
 
 ## 📌 Proyectos destacados
 
-- 🚧 *[Sistema de Control de Suscripciones y Pagos Recurrentes](https://github.com/Konan03/SaaS-Suscripciones-API)* – En desarrollo
 - 🛒 *[E-commerce Front-End](https://github.com/Konan03/unitienda-front)* – para catálogo y pedidos, Trabajo de grado
 
 ---
